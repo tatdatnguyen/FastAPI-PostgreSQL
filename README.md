@@ -10,6 +10,7 @@ pip install fastapi[all] sqlalchemy databases psycopg2
 
 ``
 sudo apt update
+
 sudo apt install postgresql postgresql-contrib
 ``
 
